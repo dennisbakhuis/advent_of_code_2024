@@ -40,3 +40,20 @@ class aoc24:
         example_data_file = _BASE_PATH / "day_04_example_input.txt"
         example_expected_result_part1 = 18
         example_expected_result_part2 = 9
+
+    class day5:
+        """Day 5 data."""
+
+        puzzle_input_file = _BASE_PATH / "day_05_puzzle_input.txt"
+        example_data_file = _BASE_PATH / "day_05_example_input.txt"
+        example_expected_result_part1 = 143
+        example_expected_result_part2 = 123
+
+    class day6:
+        """Day 6 data."""
+
+        puzzle_input_file = _BASE_PATH / "day_06_puzzle_input.txt"
+        example_data_file = _BASE_PATH / "day_06_example_input.txt"
+        example_expected_result_part1 = None
+        example_expected_result_part2 = None
+
